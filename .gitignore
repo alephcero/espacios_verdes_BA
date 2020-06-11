@@ -4,6 +4,7 @@ cache/
 #large files
 carto/region_nodes.geojson
 carto/region_edges.geojson
+carto/nodos_con_data.geojson
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
