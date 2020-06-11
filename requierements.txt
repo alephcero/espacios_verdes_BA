@@ -1,0 +1,13 @@
+geopandas >= 0.7.0
+requests>=2.23
+setuptools>=47.1.1 
+pandana
+folium
+jupyter	
+matplotlib
+osmnx
+rtree
+mapclassify
+OSMPythonTools
+cython
+seaborn
